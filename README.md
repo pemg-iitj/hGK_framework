@@ -37,4 +37,4 @@ If you use this framework, please cite:
 
 Meel, A. K.; Mogurampelly, S.  
 "A hybrid Green-Kubo (hGK) framework for calculating viscosity from short MD simulations"  
-[arXiv:2512.04546](https://doi.org/10.48550/arXiv.2512.04546)
+[doi:10.1021/acs.jpclett.5c03863]([https://doi.org/10.1021/acs.jpclett.5c03863])
