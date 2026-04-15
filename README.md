@@ -36,5 +36,6 @@ cd example/spce_water
 If you use this framework, please cite:
 
 Meel, A. K.; Mogurampelly, S.  
-"A hybrid Green-Kubo (hGK) framework for calculating viscosity from short MD simulations"  
+"A hybrid Green-Kubo (hGK) framework for calculating viscosity from short MD simulations"
+J. Phys. Chem. Lett. 2026, 17, 14, 4016–4022
 [doi:10.1021/acs.jpclett.5c03863]([https://doi.org/10.1021/acs.jpclett.5c03863])
